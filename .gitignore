@@ -2,7 +2,7 @@
 .project
 .actionScriptProperties
 .settings
-.p12
+*.p12
 
 
 # Compiled source #
