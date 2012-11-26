@@ -1,0 +1,52 @@
+
+TimeLapse
+version: 0.1
+
+Harrison Mendonça
+http://harrison.com.br/
+
+Programa de TimeLapse que utiliza a webcam para tirar fotos e gerar um video em tempo real.
+
+=========
+CONTROLES
+=========
+
+ENTER
+inicia as fotos
+
+F
+muda de fullscreen para não fullscreen
+
+M
+mostra o mouse
+
+CTRL+M
+esconde o mouse
+
+- (sinal de menos)
+diminui o tempo de intervalo entre cada catura de foto
+
++ (sinal de mais)
+aumenta o tempo de intervalo entre cada catura de foto
+
+9 (nove)
+diminui o tempo de intervalo entre cada foto mostrada, deixando o video mais lento
+
+0 (zero)
+aumenta o tempo de intervalo entre cada foto mostrada, deixando o video mais rapido
+
+R
+Renderiza um video no formato .flv
+
+
+As fotos ficarão salvas no desktop, dentro da pasta TimeLapse
+
+
+
+=======
+LICENÇA
+=======
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US
+
