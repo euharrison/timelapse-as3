@@ -20,10 +20,10 @@ mostra o mouse
 CTRL+M
 esconde o mouse
 
-- (sinal de menos)
+\- (sinal de menos)
 diminui o tempo de intervalo entre cada catura de foto
 
-+ (sinal de mais)
+\+ (sinal de mais)
 aumenta o tempo de intervalo entre cada catura de foto
 
 9 (nove)
