@@ -8,36 +8,25 @@ Programa de TimeLapse que utiliza a webcam para tirar fotos e gerar um video em 
 
 ## Controles
 
-ENTER
-inicia as fotos
+**ENTER** inicia as fotos
 
-F
-muda de fullscreen para não fullscreen
+**F** muda de fullscreen para não fullscreen
 
-M
-mostra o mouse
+**M** mostra o mouse
 
-CTRL+M
-esconde o mouse
+**CTRL+M** esconde o mouse
 
-\- (sinal de menos)
-diminui o tempo de intervalo entre cada catura de foto
+**\- (sinal de menos)** diminui o tempo de intervalo entre cada catura de foto
 
-\+ (sinal de mais)
-aumenta o tempo de intervalo entre cada catura de foto
+**\+ (sinal de mais)** aumenta o tempo de intervalo entre cada catura de foto
 
-9 (nove)
-diminui o tempo de intervalo entre cada foto mostrada, deixando o video mais lento
+**9 (nove)** diminui o tempo de intervalo entre cada foto mostrada, deixando o video mais lento
 
-0 (zero)
-aumenta o tempo de intervalo entre cada foto mostrada, deixando o video mais rapido
+**0 (zero)** aumenta o tempo de intervalo entre cada foto mostrada, deixando o video mais rapido
 
-R
-Renderiza um video no formato .flv
-
+**R** Renderiza um video no formato .flv
 
 As fotos ficarão salvas no desktop, dentro da pasta TimeLapse
-
 
 ## Download
 
@@ -46,7 +35,6 @@ http://dl.dropbox.com/u/4260813/TimeLapse.air
 
 Lembrando que tem que ter o Adobe AIR instalado
 http://get.adobe.com/air/
-
 
 ## Licença
 
