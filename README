@@ -1,5 +1,4 @@
-
-TimeLapse
+# TimeLapse
 version: 0.1
 
 Harrison Mendonça
@@ -7,9 +6,7 @@ http://harrison.com.br/
 
 Programa de TimeLapse que utiliza a webcam para tirar fotos e gerar um video em tempo real.
 
-=========
-CONTROLES
-=========
+## Controles
 
 ENTER
 inicia as fotos
@@ -42,10 +39,16 @@ Renderiza um video no formato .flv
 As fotos ficarão salvas no desktop, dentro da pasta TimeLapse
 
 
+## Download
 
-=======
-LICENÇA
-=======
+Para facilitar, segue um link para o download direto do instalador
+http://dl.dropbox.com/u/4260813/TimeLapse.air
+
+Lembrando que tem que ter o Adobe AIR instalado
+http://get.adobe.com/air/
+
+
+## Licença
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US
