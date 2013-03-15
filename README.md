@@ -2,7 +2,7 @@
 version: 0.1
 
 Harrison Mendonça
-http://harrison.com.br/
+www.harrison.com.br
 
 Programa de TimeLapse que utiliza a webcam para tirar fotos e gerar um video em tempo real.
 
