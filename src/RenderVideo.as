@@ -55,7 +55,8 @@ package
 			urlList = new Vector.<String>();
 			var files:Array = folder.getDirectoryListing();
 			for (var i:uint = 0; i < files.length; i++) {
-				if (!files[i].isDirectory) { 
+				if (!files[i].isDirectory 
+					&& (files[i].extension == 'png' || files[i].extension == 'jpg' || files[i].extension == 'gif')) { 
 					urlList.push(files[i].url);
 				}
 			}

@@ -83,7 +83,8 @@ package
 			addChild(cameraLayer);
 			
 			//camera
-			camera = Camera.getCamera();
+			camera = Camera.getCamera("1");
+			if (!camera) camera = Camera.getCamera();
 			camera.setMode(VIDEO_WIDTH, VIDEO_HEIGHT, 15);
 			video = new Video(camera.width, camera.height);
 			video.attachCamera(camera);
